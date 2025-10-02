@@ -22,3 +22,17 @@
 - Скриншот графика:  
 
 ![Sales by Region](sales_by_region.png)
+
+## 📊 Mini Project 2 — Продажи по категориям (Excel)
+
+В этом проекте я проанализировал продажи по категориям товаров.  
+
+**Инсайт:**  
+- Лидер по продажам: [Office Supplies]  
+- Аутсайдер: [Technology]  
+
+### 🔗 Файлы проекта:
+- [Excel-анализ](category_sales.xlsx)  
+- Скриншот графика:  
+
+![Category Sales](category_sales.png)
